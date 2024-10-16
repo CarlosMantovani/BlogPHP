@@ -1,11 +1,10 @@
 # BlogPHP
 
-Este é um projeto simples de blog desenvolvido em PHP, com foco em funcionalidades básicas de um blog, como exibição de posts e formulários de contato. O objetivo principal é treinar habilidades em PHP.
+Este é um projeto simples de blog desenvolvido em PHP, com foco em funcionalidades básicas de um blog, como exibição de posts. O objetivo principal é treinar habilidades em PHP.
 
 ## Funcionalidades
 
 - Exibição de posts de blog
-- Página de contato
 - Layout básico com templates
 
 ## Requisitos
